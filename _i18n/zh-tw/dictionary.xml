@@ -2350,12 +2350,6 @@
   <block id="6d84e3718084e0db779da4ff8791a2f2" category="doc">支援的瀏覽器</block>
   <block id="986c37480b1f1c2e443504b38b6361b4" category="list-text">Chrome</block>
   <block id="9b5c943f3d46ea12de31408c6912a1e9" category="paragraph">如果您使用的是v66、可能無法啟動SnapCenter vsGUI。</block>
-  <block id="ebe4f447bd3316e4f81ab2a6d2f26810" category="list-text">Internet Explorer</block>
-  <block id="74e84f9442fdb7717385ee092400869a" category="paragraph">如果您使用的是IE 10或更早版本、則無法正確載入此程式。SnapCenter您應該升級至IE 11。</block>
-  <block id="8b45fc0c82a493bebd2ae705881299e0" category="list-text">僅支援預設層級的安全性。</block>
-  <block id="8c39fdaac8e8c7ec5824fd1acda14c9a" category="paragraph">變更Internet Explorer安全性設定會導致瀏覽器顯示出現重大問題。</block>
-  <block id="c5c74f2a0046f37ca93f6d8e3c775364" category="list-text">必須停用Internet Explorer相容性檢視。</block>
-  <block id="a5c41f715c1b8a880253846c025624e9" category="list-text">Microsoft Edge</block>
   <block id="0399ed9d4322925cd652419c6e80ccbb" category="paragraph">如需支援版本的最新資訊，請參閱<block ref="6b3ef4eef08ac0feed960a06e1cce7e2" category="inline-link-rx"></block>。</block>
   <block id="ba7cbf773bd0f0004c4d97fba5034cdb" category="summary">您應該知道支援的儲存系統、應用程式和資料庫。</block>
   <block id="1e1ed4854c77f284f3e97b0843b6e570" category="doc">支援的儲存系統與應用程式</block>
@@ -9028,4 +9022,7 @@
   <block id="8693aef17f2d371968a29ad0e0dff726" category="sidebar">升級工作流程</block>
   <block id="9e19caeb431a5e29a1a63e3cee4b36c9" category="inline-link">使用 ONTAP 保護 Oracle 資料</block>
   <block id="d118010bb2b3542007c6749bfd237123" category="list-text"><block ref="d118010bb2b3542007c6749bfd237123" category="inline-link-rx"></block></block>
+  <block id="5438f8c09e5ea2be33bd2ce16c8b5123" category="admonition">從 SnapCenter 5.0 開始、只有 REST API 支援 vserver 管理使用者。如果您想要使用非 vserver admin 建立角色、請使用 ZAPI 。</block>
+  <block id="f5a551e6a3161ca6d9ee33d926d734d5" category="list-text">Microsoft Edge 110.0.1587.17 及更新版本</block>
+  <block id="3955db71dd681bf23ceee85c567a0129" category="admonition">從 SnapCenter 5.0 開始、叢集管理使用者只能使用 REST API 。如果您想要使用非叢集管理來建立角色、則應使用 ZAPI 。</block>
 </blocks>

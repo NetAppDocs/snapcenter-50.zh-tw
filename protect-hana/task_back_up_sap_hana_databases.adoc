@@ -26,7 +26,7 @@ link:task_back_up_resource_groups_sap_hana.html["備份資源群組"]
 
 * 如果您想要在一或多個租戶資料庫停機時建立檔案型備份、請使用 Cmdlet 在 HANA 內容檔中將 allow_file_based backup_IFINACTIVE_V租 戶 _present 參數設為 * 是 * `Set-SmConfigSettings` 。
 +
-您可以執行Get-Help _command_name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者、您也可以參閱 https://library.netapp.com/ecm/ecm_download_file/ECMLP2886895["《軟件指令程式參考指南》SnapCenter"]
+您可以執行Get-Help _command_name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者、您也可以參閱 https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["《軟件指令程式參考指南》SnapCenter"]
 
 * 對於用於停止、 Snapshot 和取消停止作業的前置和後置命令、您應該從下列路徑檢查外掛程式主機上可用的命令清單中是否存在這些命令：
 +

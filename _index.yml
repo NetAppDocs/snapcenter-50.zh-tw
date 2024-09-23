@@ -76,7 +76,7 @@ indexpage:
   - title: 更多資源
     links:
     - title: Cmdlet參考指南
-      url: https://library.netapp.com/ecm/ecm_download_file/ECMLP2886895
+      url: https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html
     - title: 命令參考指南
       url: https://library.netapp.com/ecm/ecm_download_file/ECMLP2886896
     - title: 先前版本SnapCenter 的不適用資料

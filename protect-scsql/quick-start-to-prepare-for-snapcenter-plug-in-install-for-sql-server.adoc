@@ -202,5 +202,3 @@ Windows外掛程式主機
 您的使用者應具備本機系統管理員權限、並具有遠端主機的本機登入權限。如果您管理叢集節點、則需要擁有叢集中所有節點管理權限的使用者。
 
 您應該擁有SQL Server上具有Sysadmin權限的使用者。外掛程式使用Microsoft VDI Framework、需要系統管理員存取權。
-
-如果您使用的是 Microsoft SQL Server 的 SnapManager 、而且想要將資料從 SnapManager for Microsoft SQL Server 匯入 SnapCenter 、請參閱 link:../protect-scsql/concept_import_archived_backups_from_snapmanager_for_sql_to_snapcenter.html["匯入歸檔備份"^]

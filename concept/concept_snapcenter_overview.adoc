@@ -86,7 +86,7 @@ https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]
 如需 REST API 的詳細資訊、請參閱 https://docs.netapp.com/us-en/snapcenter/sc-automation/overview_rest_apis.html["REST API總覽"]。
 
 +
-如需 Windows Cmdlet 的詳細資訊，請參閱 https://library.netapp.com/ecm/ecm_download_file/ECMLP2886895["《軟件指令程式參考指南》SnapCenter"^]。
+如需 Windows Cmdlet 的詳細資訊，請參閱 https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.htmllllll["《軟件指令程式參考指南》SnapCenter"^]。
 
 +
 如需 UNIX 命令的詳細資訊，請參閱 https://library.netapp.com/ecm/ecm_download_file/ECMLP2886896["《軟件命令參考指南》SnapCenter"^]。

@@ -2349,7 +2349,6 @@
   <block id="ba7cbf773bd0f0004c4d97fba5034cdb" category="summary">您應該知道支援的儲存系統、應用程式和資料庫。</block>
   <block id="1e1ed4854c77f284f3e97b0843b6e570" category="doc">支援的儲存系統與應用程式</block>
   <block id="ed3518bf4a914f119b6bdecebdd5768f" category="paragraph">您應該知道支援的儲存系統、應用程式和資料庫。</block>
-  <block id="c8f093093364799903de04dd2e4130fd" category="list-text">支援不支援更新版本的支援功能、可保護您的資料。SnapCenter ONTAP</block>
   <block id="213ee580d561421ab50f46ea0b22affa" category="list-text">支援Amazon FSX for NetApp功能、保護資料不受來自於更新版的支援。SnapCenter ONTAP SnapCenter</block>
   <block id="dc39fb71951ab3bfb20cab9c1beb9446" category="paragraph">如果您使用Amazon FSX for NetApp ONTAP Sfor NetApp的話、請確保SnapCenter 將支援此功能的支援伺服器主機外掛程式升級至4.5 P1或更新版本、以執行資料保護作業。</block>
   <block id="cc788b7e72b2a734dd0985bd1e0e9fe3" category="inline-link">Amazon FSX for NetApp ONTAP 的支援文件</block>
@@ -9030,4 +9029,5 @@
   <block id="220234cac5f472ab02817a1099c26930" category="paragraph">您可以執行_Get-Help命令name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者，您也可以參閱<block ref="e051f2ead2ef95df859014c037130e5b" category="inline-link-rx"></block>。</block>
   <block id="f2aad7603f69fb3a7bd74475faf67941" category="paragraph">您可以執行_Get-Help命令name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者、您也可以參閱<block ref="e051f2ead2ef95df859014c037130e5b" category="inline-link-rx"></block></block>
   <block id="1c3e9ee54ab1c8453c33bb85580d9d14" category="paragraph">您也可以使用_uninstall-SmHostPackage_ Cmdlet和必要的參數、從多個主機解除安裝外掛程式。您可以執行_Get-Help命令name_來取得可搭配Cmdlet使用之參數及其說明的相關資訊。或者、您也可以參閱<block ref="e051f2ead2ef95df859014c037130e5b" category="inline-link-rx"></block>。</block>
+  <block id="dddf91700099a41aae12a91632f8108f" category="list-text">SnapCenter 支援 ONTAP 9 8 及更新版本、以保護您的資料。</block>
 </blocks>

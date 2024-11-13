@@ -55,9 +55,6 @@ summary: 支援簡單、集中化、可擴充的平台、可為在混合雲任�
 +
 其他標準或自訂應用程式和資料庫也支援資料保護、提供架構以建立使用者定義SnapCenter 的功能表外掛程式。如此一來、其他應用程式和資料庫就能從同一個單一窗口進行資料保護。藉由運用此架構、NetApp已在SnapCenter NetApp Automation Store上針對IBM DB2、MongoDB、MySQL等發佈了適用的功能不全的外掛程式。
 
-+
-https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]
-
 * 原則型備份
 +
 原則型備份利用 NetApp Snapshot 技術來建立快速、節省空間、應用程式一致、磁碟型的備份。或者、您也可以更新現有的保護關係、將這些備份作業自動化至二線儲存設備。
@@ -86,7 +83,7 @@ https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]
 如需 REST API 的詳細資訊、請參閱 https://docs.netapp.com/us-en/snapcenter/sc-automation/overview_rest_apis.html["REST API總覽"]。
 
 +
-如需 Windows Cmdlet 的詳細資訊，請參閱 https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.htmllllll["《軟件指令程式參考指南》SnapCenter"^]。
+如需 Windows Cmdlet 的詳細資訊，請參閱 https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["《軟件指令程式參考指南》SnapCenter"^]。
 
 +
 如需 UNIX 命令的詳細資訊，請參閱 https://library.netapp.com/ecm/ecm_download_file/ECMLP2886896["《軟件命令參考指南》SnapCenter"^]。
@@ -177,9 +174,6 @@ image::../media/snapcenter_architecture.gif[架構SnapCenter]
 
 
 * 不適用的自訂外掛程式SnapCenter
-+
-自訂外掛程式受到社群支援、可從下載 https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]。
-
 
 
 VMware vSphere的VMware vSphere外掛程式（前身為NetApp Data Broker）是獨立式虛擬應用裝置、可在虛擬化資料庫和檔案系統上支援資料保護作業。SnapCenter SnapCenter
@@ -286,7 +280,6 @@ Linux或Windows
  a| 
 自訂外掛程式
  a| 
-https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]
  a| 
 對於檔案系統備份、Windows外掛程式
  a| 
@@ -369,8 +362,6 @@ SAN原生裝置、檔案系統及以SAN裝置為建置基礎的LVM配置均受�
 * 支援在另一個磁碟區上建立備份集的鏡射複本、並執行磁碟對磁碟備份複寫。
 * 同時支援Windows和Linux環境。在Windows環境中、透過自訂外掛程式的自訂應用程式可選擇性地使用SnapCenter 適用於Microsoft Windows的還原外掛程式來進行檔案系統一致的備份。
 
-
-您可以從下載適用於 SnapCenter 軟體的 MySQL 、 DB2 和 MongoDB 自訂外掛程式範例 https://automationstore.netapp.com/home.shtml["NetApp儲存自動化商店"^]。
 
 
 NOTE: MySQL、DB2和MongoDB自訂外掛程式僅透過NetApp社群提供支援。

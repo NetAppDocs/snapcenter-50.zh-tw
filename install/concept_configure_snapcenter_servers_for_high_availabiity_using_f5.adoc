@@ -18,7 +18,7 @@ IMPORTANT: 如果您已從SnapCenter 更新版的版本為版本4.2.x、而且�
 
 工作流程影像會列出使用SnapCenter F5負載平衡器設定高可用度的功能步驟。有關詳細說明，請參閱 https://kb.netapp.com/Advice_and_Troubleshooting/Data_Protection_and_Security/SnapCenter/How_to_configure_SnapCenter_Servers_for_high_availability_using_F5_Load_Balancer["如何使用SnapCenter F5負載平衡器設定高可用度的功能"^]。
 
-image::../media/sc-F5-configure-workflow.png[SC F5設定工作流程]
+image::../media/sc-F5-configure-workflow.gif[使用 F5 設定高可用度]
 
 您必須是SnapCenter 本機「管理員」群組的成員（除了指派給SnapCenterAdmin角色之外）、才能使用下列Cmdlet來新增和移除F5叢集：
 

@@ -15,7 +15,7 @@ summary: 說明如何升級SnapCenter Sfor Server和外掛程式、以及支援�
 
 工作流程會顯示升級SnapCenter 版的不一樣工作、包括升級版的《伺服器與外掛程式」套件。
 
-image::../media/upgrade_workflow.png[升級工作流程]
+image::../media/upgrade_workflow.gif[SnapCenter 升級工作流程]
 
 
 

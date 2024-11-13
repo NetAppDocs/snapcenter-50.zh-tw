@@ -278,7 +278,7 @@ NOTE: 如果您的資料庫只有記錄備份、而且主機上的DAG組態沒�
 
 按一下「拓撲」頁面中的 * 重新整理 * 按鈕、即可重新整理從 ONTAP 擷取的次要和主要 SnapLock 到期時間。
 
-請參閱。 link:..protect-sce/task_view_exchange_backups_in_the_topology_page.html["在「拓撲」頁面中檢視Exchange備份"]
+請參閱。 link:task_view_exchange_backups_in_the_topology_page.html["在「拓撲」頁面中檢視Exchange備份"]
  a| 
 選取此選項可將備份集的鏡射複本保留在另一個磁碟區（SnapMirror）上。
 

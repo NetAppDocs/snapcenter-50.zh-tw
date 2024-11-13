@@ -16,7 +16,7 @@ summary: 複製工作流程包括規劃、執行複製作業及監控作業。
 .開始之前
 您必須準備好PowerShell環境、才能執行PowerShell Cmdlet。
 
-如需 PowerShell Cmdlet 的相關資訊，請使用 SnapCenter Cmdlet 說明或參閱 https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.htmlll["《軟件指令程式參考指南》SnapCenter"^]。
+如需 PowerShell Cmdlet 的相關資訊，請使用 SnapCenter Cmdlet 說明或參閱 https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["《軟件指令程式參考指南》SnapCenter"^]。
 
 .步驟
 . 使用Open-SmConnection Cmdlet為SnapCenter 指定的使用者啟動與SetsServer的連線工作階段。

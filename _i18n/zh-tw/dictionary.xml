@@ -5641,13 +5641,7 @@
   <block id="e3bcbd4b72b9abcfba6dd89fa833c9d7" category="list-text">您應該將應用程式防火牆的逾時值設定為3小時以上。</block>
   <block id="2f66d67da390e5c77db3fc5e681393ab" category="list-text">如果NFS環境中有Oracle資料庫、則必須至少設定一個NFS資料LIF用於一線或二線儲存設備、才能執行掛載、複製、驗證及還原作業。</block>
   <block id="904e44e9990e7591adda05fc061919d3" category="list-text">如果SVM中有多個資料路徑（LIF）、SnapCenter 則選擇適當的資料路徑（LIF）來掛載NFS複製的Volume。不過、如果您要指定特定的資料路徑（LIF）、則必須執行Set-SvmPreferredDataPath CLI。命令參考指南有更多資訊。</block>
-  <block id="0d38af714784f793aaf023f367e4c39b" category="list-text">如果SAN環境中有Oracle資料庫、請務必依照下列指南所述的建議來設定SAN環境：</block>
-  <block id="26b193fe4fa8dbe180bbe20800729e6b" category="inline-link">Linux Unified Host Utilities的建議主機設定</block>
-  <block id="e705af1c7f38eac38e2f493fc039f70e" category="list-text"><block ref="e705af1c7f38eac38e2f493fc039f70e" category="inline-link-rx"></block></block>
-  <block id="e41304e7d689f8fed5c98620228184cf" category="inline-link">使用Linux主機搭配ONTAP 不含資源的儲存設備</block>
-  <block id="4261289fb5bad467a2ad973679d86c14" category="list-text"><block ref="4261289fb5bad467a2ad973679d86c14" category="inline-link-rx"></block></block>
   <block id="b1ada800560d7bd73c2da9a36d6ae229" category="inline-link">受AIX主機公用程式影響的主機設定</block>
-  <block id="9e202af09678a2aeb1c20235b8ed2aad" category="list-text"><block ref="9e202af09678a2aeb1c20235b8ed2aad" category="inline-link-rx"></block></block>
   <block id="ba09c94fed381b580a726fc94531b160" category="list-text">如果您在Oracle Linux或RHEL作業系統的LVM上有Oracle資料庫、請安裝最新版的邏輯Volume Management（LVM）。</block>
   <block id="8770246977269a639c8c2818412dc3ac" category="list-text">如果您使用SnapManager 的是適用於Oracle的支援功能、而且想要移轉至SnapCenter 適用於Oracle資料庫的支援功能、您可以SnapCenter 使用sccli命令sc-migrate、將設定檔移轉至適用於Oracle資料庫的原則和資源群組。</block>
   <block id="4c893189fecc8b6e5c41ae931ffd7f89" category="list-text">如果SnapVault 您想要備份複寫、請設定ONTAP SnapMirror和支援功能</block>
@@ -9014,4 +9008,5 @@
   <block id="a67e0e0c5dea92d024cd90ac412f110f" category="paragraph">如需解除安裝適用於 VMware vSphere 的 SnapCenter 外掛程式的相關資訊，請參閱 https ： //docs.com/com/us-en/sc-plugin-vmware-vsphere/scpivs44_remove_plugin.html[ NetApp 移除適用於 VMware vSphere 的 SnapCenter 外掛程式 ^] 。</block>
   <block id="9370db25bd6766721eb2110afcff56b0" category="image-alt">SnapCenter 升級工作流程</block>
   <block id="d127c7070231e882bd97e8f2760d0a4f" category="sidebar">軟件文件SnapCenter</block>
+  <block id="90fd1a3ce44c78f7c0d4b87a3e5f6ad1" category="list-text">如果 SAN 環境中有 Oracle 資料庫，請務必依照中所述的建議來設定 SAN 環境<block ref="c4f7653512cf02eacb80aa4d3d06e4f7" category="inline-link-rx"></block>。</block>
 </blocks>

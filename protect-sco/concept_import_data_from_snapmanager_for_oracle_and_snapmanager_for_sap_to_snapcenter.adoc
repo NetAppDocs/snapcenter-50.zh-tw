@@ -252,11 +252,11 @@ NOTE: 您必須針對主機上的每個設定檔執行「SMO認證集」命令�
 *** `smsap credential set -repository -dbname repository_database_name -host host_name -port port_number -login -username user_name_for_repository_database`
 *** `smsap profile sync -repository -dbname repository_database_name -host host_name -port port_number -login -username host_user_name_for_repository_database`
 *** `smsap credential set -profile -name profile_name`
-
-
 +
 
 NOTE: 您必須針對主機上的每個設定檔執行smsap認證集命令。
+
+
 
 
 

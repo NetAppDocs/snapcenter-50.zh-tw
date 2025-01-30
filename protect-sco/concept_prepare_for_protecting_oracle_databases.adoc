@@ -38,13 +38,7 @@ NOTE: 不支援在不同叢集上使用相同名稱的多個SVM。SnapCenter每�
 ** 如果SVM中有多個資料路徑（LIF）、SnapCenter 則選擇適當的資料路徑（LIF）來掛載NFS複製的Volume。不過、如果您要指定特定的資料路徑（LIF）、則必須執行Set-SvmPreferredDataPath CLI。命令參考指南有更多資訊。
 
 
-* 如果SAN環境中有Oracle資料庫、請務必依照下列指南所述的建議來設定SAN環境：
-+
-** https://library.netapp.com/ecm/ecm_download_file/ECMLP2547957["Linux Unified Host Utilities的建議主機設定"^]
-** https://library.netapp.com/ecm/ecm_download_file/ECMLP2547958["使用Linux主機搭配ONTAP 不含資源的儲存設備"^]
-** https://library.netapp.com/ecm/ecm_download_file/ECMP1119218["受AIX主機公用程式影響的主機設定"^]
-
-
+* 如果 SAN 環境中有 Oracle 資料庫，請務必依照中所述的建議來設定 SAN 環境 https://library.netapp.com/ecm/ecm_download_file/ECMP1119218["受AIX主機公用程式影響的主機設定"^]。
 * 如果您在Oracle Linux或RHEL作業系統的LVM上有Oracle資料庫、請安裝最新版的邏輯Volume Management（LVM）。
 * 如果您使用SnapManager 的是適用於Oracle的支援功能、而且想要移轉至SnapCenter 適用於Oracle資料庫的支援功能、您可以SnapCenter 使用sccli命令sc-migrate、將設定檔移轉至適用於Oracle資料庫的原則和資源群組。
 * 如果SnapVault 您想要備份複寫、請設定ONTAP SnapMirror和支援功能

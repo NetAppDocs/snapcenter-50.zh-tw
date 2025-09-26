@@ -7099,7 +7099,6 @@
   <block id="953acf14bebe77c11e648186f3957214" category="list-text">您的使用者必須具有SQL Server上的Sysadmin權限。</block>
   <block id="d165009fc919b7c43f63036983c47ae0" category="paragraph">適用於Microsoft SQL Server的VMware vCenter外掛程式使用Microsoft VDI架構、需要系統管理員存取權。SnapCenter</block>
   <block id="9221af74572734362746f0af9104d884" category="inline-link">Microsoft支援文件編號2926557：SQL Server VDI備份與還原作業需要Sysadmin權限</block>
-  <block id="c081ea6f4c7f13224651487050d87831" category="paragraph"><block ref="c081ea6f4c7f13224651487050d87831" category="inline-link-rx"></block></block>
   <block id="9c9a08a242e9f6311be9fa5bd945d582" category="list-text">如果安裝了適用於Microsoft SQL Server的功能、您必須停止或停用服務和排程。SnapManager</block>
   <block id="1931c747684bb6010ac638ae2be606b3" category="paragraph">如果您打算將備份或複製工作匯入SnapCenter 到支援區、請勿解除安裝SnapManager Microsoft SQL Server的功能。</block>
   <block id="024ecfe0da835b1f362b5e64ec1408ab" category="list-text">主機必須可解析為伺服器的完整網域名稱（FQDN）。</block>
@@ -9009,4 +9008,5 @@
   <block id="90fd1a3ce44c78f7c0d4b87a3e5f6ad1" category="list-text">如果 SAN 環境中有 Oracle 資料庫，請務必依照中所述的建議來設定 SAN 環境<block ref="c4f7653512cf02eacb80aa4d3d06e4f7" category="inline-link-rx"></block>。</block>
   <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
   <block id="57cf9c4ee485623172a5c60cbee423a4" category="paragraph">觀看 <block ref="96716f545c5cf1a209bf10c1a798ce38" category="inline-link-macro-rx"></block> 影片。</block>
+  <block id="2af0fc8c21c11cf5ed04e0063f53931e" category="paragraph"><block ref="2af0fc8c21c11cf5ed04e0063f53931e" category="inline-link-rx"></block></block>
 </blocks>

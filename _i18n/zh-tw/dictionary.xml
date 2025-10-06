@@ -1084,7 +1084,6 @@
   <block id="3f897d901d24f02777ff0994b7823d1a" category="list-text">位於 ONTAP FAS 、 AFF 或 ASA 主要和次要系統上、並受本機 StorageGRID 物件儲存保護的資料</block>
   <block id="bc549d53e5e7a7aeb8a41511751a99f2" category="list-text">內部部署於混合雲中、以保護下列項目：</block>
   <block id="f5c37d824040662f50cbb8a32d77182d" category="list-text">ONTAP FAS 、 AFF 或 ASA 主要系統上的資料、並複寫至 Cloud Volumes ONTAP</block>
-  <block id="f7b38c62b0e74d318a255bc3094cf531" category="list-text">位於 ONTAP FAS 、 AFF 或 ASA 主要和次要系統上、並受雲端物件和歸檔儲存保護的資料（使用 BlueXP 備份和還原整合）</block>
   <block id="ca5570a253e3c0a27562c65c06bb6125" category="list-text">在公有雲中保護下列項目：</block>
   <block id="b340c2b4a7a978a510c8ebb351622143" category="list-text">資料位於Cloud Volumes ONTAP 僅有ONTAP 的部分系統（前身為《不知道如何解決此問題》）</block>
   <block id="b380e442ff5c6e48e283af8b6f99806f" category="list-text">Amazon FSX ONTAP 上的資料以供支援</block>
@@ -9009,4 +9008,5 @@
   <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
   <block id="57cf9c4ee485623172a5c60cbee423a4" category="paragraph">觀看 <block ref="96716f545c5cf1a209bf10c1a798ce38" category="inline-link-macro-rx"></block> 影片。</block>
   <block id="2af0fc8c21c11cf5ed04e0063f53931e" category="paragraph"><block ref="2af0fc8c21c11cf5ed04e0063f53931e" category="inline-link-rx"></block></block>
+  <block id="ea1c96f839915f73d25b910bbc92b734" category="list-text">位於ONTAP FAS、 AFF或ASA主系統和輔助系統上的數據，使用NetApp備份和恢復整合保護到雲端中的物件和歸檔存儲</block>
 </blocks>
